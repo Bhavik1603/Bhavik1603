@@ -18,7 +18,7 @@ Here are some ideas to get you started:
         <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mb. No.: +91-7049423348<br /><br />
 
 
-<h3 align="left">Technical skills: </h3>
+## Technical skills:
 <ul>
   <li><b>Languages</b>: C, C++, Java, Python, Javascript.</li>
   <li><b>Database</b>: MySQL, SQLite, DBMS.</li>
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   <li><b>Web Skills</b>: HTML5, CSS3, Bootstrap</li>
   <li><b>Course Work</b>: OOPS, Data Structures, Socket Programming, Graph Theory, Machine Learning</li>
 </ul>
-- 😄 Pronouns: He/Him
+
