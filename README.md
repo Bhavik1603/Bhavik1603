@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Bhavik1603/Bhavik1603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,12 +19,12 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Technical skills: </h3>
-<li>
-  <ul><b>Languages</b>: C, C++, Java, Python, Javascript.</ul>
-  <ul><b>Database</b>: MySQL, SQLite, DBMS.</ul>
-  <ul><b>Cloud</b>: AWS: S3, EC2, IAM, EBS, RDS.</ul>
-  <ul><b>Framework and Libraries</b>: Flask, StreamLit, BeautifulSoup, Pandas, Numpy, Matplotlib, PixelLib, scikit-learn.</ul>
-  <ul><b>Web Skills</b>: HTML5, CSS3, Bootstrap</ul>
-  <ul><b>Course Work</b>: OOPS, Data Structures, Socket Programming, Graph Theory, Machine Learning</ul>
-</li>
+<ul>
+  <li><b>Languages</b>: C, C++, Java, Python, Javascript.</li>
+  <li><b>Database</b>: MySQL, SQLite, DBMS.</li>
+  <li><b>Cloud</b>: AWS: S3, EC2, IAM, EBS, RDS.</li>
+  <li><b>Framework and Libraries</b>: Flask, StreamLit, BeautifulSoup, Pandas, Numpy, Matplotlib, PixelLib, scikit-learn.</li>
+  <li><b>Web Skills</b>: HTML5, CSS3, Bootstrap</li>
+  <li><b>Course Work</b>: OOPS, Data Structures, Socket Programming, Graph Theory, Machine Learning</li>
+</ul>
 - 😄 Pronouns: He/Him
