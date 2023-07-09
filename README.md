@@ -12,11 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ul {
+    display: flex;
+    justify-content: space-between;
+}
 <h2 align="center">Hi there 👋 I am a final year student at AITR, Indore</h2>
 - 📫 How to reach me: 
         <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: bhavik.mundra1603@gmail.com 
         <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mb. No.: +91-7049423348<br /><br />
 
+## Academic Records
+
+Professional qualifications – 2020-2024
+Pursuing Bachelor’s of Computer Science Engineering from Acropolis Institute of Technology & Research, Indore
+(M.P.) affiliated by RGPV with a current CGPA of 8.01.
+Educational Qualifications –
+• Senior Secondary Certificate (10+2) from CBSE Board with 71.8%. 2020
+• High School Certificate (10th) from CBSE Board with 81%. 2018
 
 ## Technical skills:
 <ul>
