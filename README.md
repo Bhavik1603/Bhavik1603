@@ -23,12 +23,12 @@ ul {
 
 ## Academic Records
 
-Professional qualifications – 2020-2024
+Professional qualifications – 2020-2024 <br>
 Pursuing Bachelor’s of Computer Science Engineering from Acropolis Institute of Technology & Research, Indore
-(M.P.) affiliated by RGPV with a current CGPA of 8.01.
-Educational Qualifications –
-• Senior Secondary Certificate (10+2) from CBSE Board with 71.8%. 2020
-• High School Certificate (10th) from CBSE Board with 81%. 2018
+(M.P.) affiliated by RGPV with a current CGPA of 8.01. <br>
+Educational Qualifications –<br>
+• Senior Secondary Certificate (10+2) from CBSE Board with 71.8%. 2020<br>
+• High School Certificate (10th) from CBSE Board with 81%. 2018<br>
 
 ## Technical skills:
 <ul>
