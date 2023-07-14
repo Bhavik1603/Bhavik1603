@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Hi there 👋 I am a final year student at AITR, Indore</h2>
-<a href = "https://github.com/Bhavik1603/Bhavik1603/blob/main/Bhavik%20Mundra%20Resume.pdf">Resume</a>
+<h1><a href = "https://github.com/Bhavik1603/Bhavik1603/blob/main/Bhavik%20Mundra%20Resume.pdf">Resume</a></h1><br>
 - 📫 How to reach me: 
         <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: bhavik.mundra1603@gmail.com 
         <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mb. No.: +91-7049423348<br /><br />
